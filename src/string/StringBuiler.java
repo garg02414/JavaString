@@ -23,5 +23,7 @@ public class StringBuiler {
 		System.out.println(sb.length());
 		
 		System.out.println(sb.charAt(4));
+		
+		
 	}
 }
